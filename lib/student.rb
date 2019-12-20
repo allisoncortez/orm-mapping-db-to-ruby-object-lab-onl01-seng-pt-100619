@@ -88,6 +88,13 @@ class Student
     end
   end
   
-  def.
+  def.first_X_students_in_grade_10
+  end
+  
+  def.first_student_in_grade_10
+  end
+  
+  
+  
   
 end
